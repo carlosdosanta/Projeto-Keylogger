@@ -175,5 +175,4 @@ Se quiser, posso adicionar também:
 - **GIF de demonstração**
 - **Seções extras como Screenshots, Instalação rápida, CLI docs**, etc.
 
-Quer adicionar mais alguma coisa ao README?
 
