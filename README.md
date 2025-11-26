@@ -171,9 +171,5 @@ Projeto desenvolvido para estudo acadêmico de manipulação de entrada de tecla
 
 ---
 
-Se quiser, posso adicionar também:
-- **Badges do GitHub (shields.io)**
-- **GIF de demonstração**
-- **Seções extras como Screenshots, Instalação rápida, CLI docs**, etc.
 
 
