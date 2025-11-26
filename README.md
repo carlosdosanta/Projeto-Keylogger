@@ -1,6 +1,5 @@
-Desafio de Projeto – Keylogger (BootCamp Santander - Cibersegurança 2025)
 
-# Keylogger em Python com Menu Avançado e Modo Stealth
+# Desafio de Projeto – Keylogger (BootCamp Santander - Cibersegurança 2025)
 
 Este projeto apresenta um **Keylogger em Python** construído utilizando a biblioteca `pynput`, com um **menu avançado**, funções administrativas, modo stealth, tratamento completo de teclas especiais e suporte a teclado numérico.
 
