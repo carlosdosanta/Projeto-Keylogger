@@ -187,8 +187,8 @@ O uso indevido de keyloggers é **crime** de acordo com legislações de diverso
 - Firewalls: Utilize firewalls para monitorar e bloquear tráfego malicioso, o que pode impedir que keyloggers enviem os dados coletados para os atacantes.
 
 - Software Anti-keylogger dedicado: Considere o uso de software anti-keylogger especializado, que pode oferecer uma camada extra de proteção ao detectar padrões específicos de registro de teclas.
-- 
-Sistema de Prevenção de Intrusão (IPS): Em ambientes corporativos ou de infraestrutura crítica, um IPS pode ajudar a detectar e bloquear tráfego suspeito associado à atividade de keyloggers. 
+  
+- Sistema de Prevenção de Intrusão (IPS): Em ambientes corporativos ou de infraestrutura crítica, um IPS pode ajudar a detectar e bloquear tráfego suspeito associado à atividade de keyloggers. 
 
 - Práticas de Navegação e Uso Seguras
 
