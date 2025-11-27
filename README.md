@@ -1,4 +1,4 @@
-# Keylogger em Python com Menu Avançado e Modo Stealth
+# # Desafio de Projeto - Simula um keylogger no VScode simulando a captura de teclas digitadas pelo usuário em ambiente controlado e as enviando posteriormente ao E-mail de destino descrito no codigo (BootCamp Santander - Cibersegurança 2025)
 
 Este projeto apresenta um **Keylogger em Python** construído utilizando a biblioteca `pynput`, com um **menu avançado**, funções administrativas, modo stealth, tratamento completo de teclas especiais e suporte a teclado numérico.
 
